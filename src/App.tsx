@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Code, ExternalLink, Mail, User, MapPin, ChevronDown, Menu, X, MessageCircle } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Code, ExternalLink, Mail, ChevronDown, Menu, X, MessageCircle } from 'lucide-react';
 import { TRANSLATIONS } from './translations';
 
 function App() {
